@@ -20,11 +20,6 @@ The project includes real-world exercises in collecting, cleaning, analyzing, an
 - **Jupyter Notebooks**  
 - **Excel / CSV** for data handling  
 
-## 🔜 Coming Soon
-- Lab 6 – Exploratory Data Analysis  
-- Lab 7 – Dashboard or Final Report  
-- Lab 8 – Summary and Submission
-
 ## 🌐 Author
 **Eliza Febriana**  
 [LinkedIn](https://www.linkedin.com/in/elizafebriana)
